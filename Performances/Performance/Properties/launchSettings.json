@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Performance": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_JitDisasmSummary": "1",
+        "DOTNET_JitDisasm": "Program:*"
+      }
+    }
+  }
+}
